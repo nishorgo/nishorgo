@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a Full stack developer having 2 years of experience in building impactful projects. I have a passion for crafting scalable, efficient, and user-friendly solutions, whether it's creating robust backends, dynamic frontends, or full-stack applications.
+Hi there! 👋<br>I'm a Full stack developer having 2 years of experience in building impactful projects, currently working as a Data Engineer in the leading digital platform in Bangladesh. I have a passion for crafting scalable, efficient, and user-friendly solutions, whether it's creating robust backends, dynamic frontends, or data solutions.
 
 
 ## 🌐 Socials:
